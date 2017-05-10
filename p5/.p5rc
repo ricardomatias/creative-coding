@@ -1,0 +1,9 @@
+{
+  "name": "p5",
+  "projects": [
+    "erstie",
+    "pixels",
+    "flow-field",
+    "autonomous-agents"
+  ]
+}
